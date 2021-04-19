@@ -1,4 +1,4 @@
-# Cloudera Managing Big Data with SQL Specialization Certificate
+# Cloudera Modern Big Data Analysis with SQL Specialization Certificate
 
 Using HDFS and AWS S3 with Hive and Impala (using Hue GUI, Beeline, Impala-Shell, HDFS, and AWS S3 Command Line Interface)
 
