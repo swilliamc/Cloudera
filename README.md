@@ -1,5 +1,5 @@
 # Cloudera
-Cloudera Managing Big Data with SQL Specialization
+Cloudera Managing Big Data with SQL Specialization Certificate
 
 Peer-Graded Assignment Course 1: Fun Database Overview
 
